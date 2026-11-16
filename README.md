@@ -22,7 +22,7 @@ Open-source security monitoring and incident response environment.
 
 ## CERTIFICATIONS
 - TryHackMe Sec1 - 2026
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bf86699b-26d3-4225-90d3-6e8530560143" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  https://www.credly.com/badges/bf86699b-26d3-4225-90d3-6e8530560143/public_url
 
 <!--
 **IAMLED/IAMLED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
