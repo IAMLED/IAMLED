@@ -4,20 +4,27 @@
 >
 ---
 ## AREAS OF EXPERTISE
-- Web Application Security
-- API Security
-- Mobile Security
-- Internal Network Testing
-- Vulnerability Research
-- Security Engineering
+- Web Application Security Testing
+- API Security Testing
+- Mobile Security Testing
+- External / Internal Network Infrastructure Testing
+- Wireless Assessments
+- Security Awareness Campaigns
+- Secure Software Development
+- OT/IoT Security Testing
 
 ## FEATURED WORK
-- Application Security Portfolio
-- Penetration-testing reports, vulnerability research and technical case studies.
+- Application Security Research
+- OT/IoT Security Research
+- Vulnerability Research
+- Technical Case Studies.
 - Security Automation Tools
 
+## PORTFOLIO
+[Cyber Security Portfolio](https://github.com/IAMLED/Cyber-Security-Portfolio)
+
 ## SOC Engineering Lab
-Open-source security monitoring and incident response environment.
+Open-source security monitoring and incident response environment - Ongoing Development.
 
 
 ## CERTIFICATIONS
